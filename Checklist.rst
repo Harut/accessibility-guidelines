@@ -84,7 +84,7 @@
 
    
 
-См. также `Accessibility Guidelines. The Checlist for Designers <http://accessibility.voxmedia.com/#designers>`_.
+См. также `Accessibility Guidelines. The Checklist for Designers <http://accessibility.voxmedia.com/#designers>`_.
 
 
 Средства проверки
@@ -171,7 +171,7 @@
      сочетаниях браузеров и экранных чтецов: http://www.powermapper.com/tests/.
      Содержит также информацию о восприятии невалидного с точки зрения WCAG кода.
 
-Изначально при вёртске нужно учитывать
+Изначально при вёрстке нужно учитывать
 --------------------------------------
 
 #. Соблюдение семантики разметки. В частности, можно выделить следующее (перечислено далеко не всё):
@@ -377,7 +377,7 @@
   образцов реализации доступных компонентов. Стоит воспринимать не как готовые
   виджеты, а как примеры реализации.
 
-* Руководство по доступности и ARIA ot Mozilla: https://developer.mozilla.org/en-US/docs/Web/Accessibility.
+* Руководство по доступности и ARIA от Mozilla: https://developer.mozilla.org/en-US/docs/Web/Accessibility.
   Также содержит набор готовых компонентов (некоторые из них, правда, не открываются):
   https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/widgets/overview
 
